@@ -5,6 +5,4 @@ __pycache__/
 env/
 .venv/
 .env
-*.h5
-*.keras
 venv
